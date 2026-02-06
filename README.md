@@ -1,4 +1,4 @@
-# Dexx
+# My Profile 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Excel+Dashboard+Expert;Turning+Raw+Data+into+Actionable+Insights;Interactive+Reporting+%26+Visualization+Specialist;Abuja%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
 
